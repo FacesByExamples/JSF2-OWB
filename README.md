@@ -1,7 +1,7 @@
 JSF2-OWB
 ========
 
-JSF2 sample for OpenWebBean Project
+JSF2 sample for Apache OpenWebBean Project
 
 
 License
